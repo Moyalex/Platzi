@@ -2,6 +2,7 @@ import random
 
 
 def generar_contrasena():
+    random.randrange()
     mayusculas = ['A','B','C','D','E','F','G']
     minusculas = ['a','b','c','d','e','f','g']
     simbolo = ['!','#','$','&','/','(',')']
